@@ -1,0 +1,490 @@
+[33mcommit c53855f304a314f696d617895e6596c62b564230[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Matthew (Qilong) Chen <qchen1@haverford.edu>
+Date:   Wed May 22 08:33:13 2019 +0800
+
+    Completed lab1
+
+[33mcommit a7612cbf1bf84379faedce81db2792a735c3d97f[m[33m ([m[1;31mskeleton/master[m[33m)[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Sun Apr 30 00:04:16 2017 -0700
+
+    Added lab 15 stuff
+
+[33mcommit 3d8e073f7cc62f005ac657bb785c5158a2d33e82[m
+Author: Vivian Fang <vivian98.fang@gmail.com>
+Date:   Thu Apr 27 16:30:49 2017 -0700
+
+    HW 6: Add words file
+
+[33mcommit 4416f2170a02659f7f2788b21457cb521c35f9ce[m
+Author: Vivian Fang <vivian98.fang@gmail.com>
+Date:   Thu Apr 27 14:02:44 2017 -0700
+
+    Release HW 7
+
+[33mcommit 77cf1e91bdf3d8a988f55f8fa0dd24c0abae7f4e[m
+Author: Vivian Fang <vivian98.fang@gmail.com>
+Date:   Thu Apr 27 14:07:55 2017 -0700
+
+    Release HW 6
+
+[33mcommit 726ecb0ebcfc72d5721bdd191ccba9f01abf61c9[m
+Author: Ross Teixeira <ross.teixeira@berkeley.edu>
+Date:   Thu Apr 27 11:14:08 2017 -0700
+
+    fixed XYChart in GeneratorDrawer
+
+[33mcommit 5aff739123ad0f25131216e90dcfe67b11d007f2[m
+Author: Ross Teixeira <ross.teixeira@berkeley.edu>
+Date:   Thu Apr 27 09:41:27 2017 -0700
+
+    missing import in SineWaveAnimation
+
+[33mcommit 0d92efc4ef9cca58af1accab695cd3481f058ccf[m
+Author: Ross Teixeira <ross.teixeira@berkeley.edu>
+Date:   Thu Apr 27 02:27:34 2017 -0700
+
+    adding support for animations
+
+[33mcommit 1bec8ab0f2d99fa92874d0839e2233316c078d39[m
+Author: Alexander Hwang <a.hwang@berkeley.edu>
+Date:   Thu Apr 27 00:12:59 2017 -0700
+
+    Add lab14 files.
+
+[33mcommit 9f0d580353a325919877837b197d633649e66370[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Wed Apr 26 07:09:04 2017 -0700
+
+    ignoring osm files
+
+[33mcommit 43a41f23e2bd1c6e21ac502d78afda34bd79f6a8[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Tue Apr 25 22:01:40 2017 -0700
+
+    added chart plotting library
+
+[33mcommit 1c0df392fa29a10a01640a01900abcf4fb511fb7[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Apr 20 09:24:28 2017 -0700
+
+    added seeam remover
+
+[33mcommit 4ea5eb00bb059e7acfbb5464515322e5921a2a00[m
+Author: Kevin Lin <kevinlin1@berkeley.edu>
+Date:   Thu Apr 20 09:18:34 2017 -0700
+
+    lab13: add skeleton files
+
+[33mcommit 0aec308dfbcfd0413faf6ece9d649191963f4a68[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Wed Apr 19 22:45:14 2017 -0700
+
+    hw5 starter files
+
+[33mcommit e5eb1deae982c391e100a8fe3837e97db9d60f20[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Sat Apr 15 13:36:57 2017 -0700
+
+    Added links to correct images in html files, removed erroneous comment in Rasterer
+
+[33mcommit a21e73c0d23ebaf15bb717e8d4ad3f3456de048e[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Sat Apr 15 12:29:43 2017 -0700
+
+    fixed comment in graphdb
+
+[33mcommit 45fa183d094308c4312d2b19327054c87f0460be[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Fri Apr 14 21:51:52 2017 -0700
+
+    Added graph building sanity test
+
+[33mcommit 114bbc94632db4b3189895b8a10f1cb340eb4edd[m
+Author: Kevin Lin <kevinlin1@berkeley.edu>
+Date:   Fri Apr 14 16:17:23 2017 -0700
+
+    proj3: update test_params
+
+[33mcommit 3daf48af827fcf9eaa72013bbb20ac4c4fd73a35[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Thu Apr 13 10:25:34 2017 -0700
+
+    Added client side tests that you can run in IntelliJ to supplement the provided .html files
+
+[33mcommit dbbc11a14ac9959de8a217330862aa1c68d55ed5[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Apr 13 00:17:12 2017 -0700
+
+    Updated router to have proper javadocs
+
+[33mcommit b2d773dff1e4a32e7c938a2098ef481cdda75e48[m
+Author: colbyguan <colbyguan@gmail.com>
+Date:   Wed Apr 12 19:40:15 2017 -0700
+
+    Release Lab 12 + snuck in a proj3 UI corner case fix
+
+[33mcommit e5e934bd3525946eca0384c207d5cf6021e1ff20[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Apr 11 22:18:04 2017 -0700
+
+    fixed minor issue with provided test html files having vestiges of 2016, also improved format
+
+[33mcommit 8eaeb1b8f7bf7383e503569212e68a34c0bf2033[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Apr 11 14:54:28 2017 -0700
+
+    updated testTwelveImages to have width 1085 to avoid rounding error confusion
+
+[33mcommit e60f48e01975c05df0696614a26c65b0dc5c8742[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Apr 11 11:56:25 2017 -0700
+
+    alternate pom for terminal users
+
+[33mcommit ea721d79cb8f8c9d8fb51240be7a069e543ed26b[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Mon Apr 10 10:22:05 2017 -0700
+
+    version 2.0 of proj3 skeleton files
+
+[33mcommit 75e3ae05f0902f52cc9449087585b72088e6d969[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Thu Mar 30 08:02:15 2017 +0900
+
+    visualizer now does imple oomages by default
+
+[33mcommit dbfa24af55d364d4ce95b12e85ade66c456c5061[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Wed Mar 29 22:13:05 2017 +0900
+
+    minor changes to comments in various files
+
+[33mcommit 0c4930a7fd6418dd48cd97b799c9b4b608df8fb3[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Wed Mar 29 21:58:16 2017 +0900
+
+    hw4 skeleton files
+
+[33mcommit eacb0977b7a18e107bd7f2462cf2e955302c5fbf[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Wed Mar 22 23:42:19 2017 -0700
+
+    fixed plus sign
+
+[33mcommit 7e0e3a7180b5720b30a785da147190c5c2cfa209[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Wed Mar 22 22:45:28 2017 -0700
+
+    Added trivial puzzle to make it easier to debug critical optimization
+
+[33mcommit 716d4b0bee2a9a2bef5357a6312dd80e34b164e3[m
+Author: Antares Chen <antares21chen@gmail.com>
+Date:   Tue Mar 21 19:50:56 2017 -0700
+
+    Generically bad
+
+[33mcommit 02f81d3f8ea965b611bb64e31a6c19939b90f2e7[m
+Author: Antares Chen <antares21chen@gmail.com>
+Date:   Tue Mar 21 15:34:55 2017 -0700
+
+    It's most valuable while it's still a bud
+
+[33mcommit 3a2f1d98dd66bb54e259cb22e9951d36d9f7cacf[m
+Author: Antares Chen <antares21chen@gmail.com>
+Date:   Tue Mar 21 13:31:44 2017 -0700
+
+    Fewer generic issues now
+
+[33mcommit 89ed475ce4803b83d66482e3ee3bc29e1be8f3f0[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Mar 21 13:01:29 2017 -0700
+
+    fixed name of test method
+
+[33mcommit d1df6f79068679084448d80b2e7d8b5295187026[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Mar 21 11:15:55 2017 -0700
+
+    ExtrinsicPQ added
+
+[33mcommit bce64ec33ee478be40be9459c059b4820e84b81b[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Mar 21 11:13:37 2017 -0700
+
+    lab 10 skeleton file
+
+[33mcommit e9ec94450da2546a0fe9a864d8a88015895126ea[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Mon Mar 20 22:30:07 2017 -0700
+
+    hw ec1
+
+[33mcommit b03c4a7271c37102fbf2b82b796d75b1fe3d849a[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Sun Mar 19 22:53:46 2017 -0700
+
+    Added mutability test for board class
+
+[33mcommit b6be4c1dde862bb584affc40a71808787ebc8875[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Thu Mar 16 23:26:17 2017 -0700
+
+    added hw3 files
+
+[33mcommit 1cde5c2e905be4cd389247615e35e9d6872146f7[m
+Author: Kevin Lin <kevinlin1@berkeley.edu>
+Date:   Thu Mar 16 00:53:04 2017 -0700
+
+    lab9: remove the remove() method from functionalityTest()
+
+[33mcommit 403542f71fddac40bd26f596d95394947e794a66[m
+Author: Kevin Lin <kevinlin1@berkeley.edu>
+Date:   Wed Mar 15 21:25:24 2017 -0700
+
+    lab9: add hash maps lab
+
+[33mcommit d93364a5eade591b8e6b3e282f46a161e90019c4[m
+Merge: 1f61671 52c999c
+Author: Allen Guo <guoguo12@gmail.com>
+Date:   Tue Mar 14 14:25:02 2017 -0700
+
+    Merge pull request #2 from Berkeley-CS61B/kevinlin1/update-javalib
+    
+    javalib: update to latest stdlib and algs4
+
+[33mcommit 52c999cc85d280d8ed273aa043cf113957c89b39[m
+Author: Kevin Lin <kevinlin1@berkeley.edu>
+Date:   Mon Mar 13 14:38:32 2017 -0700
+
+    javalib: update to latest stdlib and algs4
+
+[33mcommit 1f616719f45f59627b144ba7adb81c15aab2e5f6[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Thu Mar 9 00:27:42 2017 -0800
+
+    hw2 stuff
+
+[33mcommit 1a24845bcfe62e2990b3d4ecf4345d0d69dd4314[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Wed Mar 8 11:01:39 2017 -0800
+
+    removed magic word
+
+[33mcommit 7fbe8e0697c9d79dde236bb0f98d517593461f9f[m
+Author: Alice <alicesheng@gmail.com>
+Date:   Tue Mar 7 19:58:48 2017 -0800
+
+    add lab9 skeleton
+
+[33mcommit a7c781311008c0253d11e6ace177a40b08de6ecf[m
+Author: Matthew Mussomele <mmussomele@berkeley.edu>
+Date:   Tue Feb 28 17:51:29 2017 -0800
+
+    Correct create table regex bug
+
+[33mcommit 235bc87f4d1826b386c2bcef8c1f04c324a49024[m
+Author: Matthew Mussomele <mmussomele@berkeley.edu>
+Date:   Tue Feb 28 13:23:54 2017 -0800
+
+    Fix whitespace in teams.tbl
+
+[33mcommit 133765830c885f9a560d3c42f27b39011d904040[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Sat Feb 25 23:00:14 2017 -0500
+
+    added proj2 samples
+
+[33mcommit 7e32f96f2251fe6f347da05fdef24f7334775c26[m
+Author: Matthew Mussomele <mmussomele@berkeley.edu>
+Date:   Sat Feb 25 17:24:58 2017 -0800
+
+    Remove extra skeleton directory
+
+[33mcommit 1b5bf0bb1908b4771d2f87398a0cf05ab815d610[m
+Author: Matthew Mussomele <mmussomele@berkeley.edu>
+Date:   Sat Feb 25 15:33:33 2017 -0800
+
+    Update Parse regex
+
+[33mcommit 8d9d4048c1934d071ccb7ba25aaf264d3b9fb1db[m
+Author: Matthew Mussomele <mmussomele@berkeley.edu>
+Date:   Thu Feb 23 13:19:49 2017 -0800
+
+    Update proj2 REPL
+
+[33mcommit 4df6007d277920a4b345fd1bf126613d3949826e[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Thu Feb 23 07:24:38 2017 -0800
+
+    added lab6 placeholder folder
+
+[33mcommit 84e9c4d76c1bf0e18534f4408e9c94ffab212914[m
+Author: Kevin Lin <kevinlin1@berkeley.edu>
+Date:   Mon Feb 20 17:06:27 2017 -0800
+
+    Ignore IntelliJ output folder
+
+[33mcommit 14cab644a1ef004f3c39443420437b851cda5685[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Feb 16 10:00:06 2017 -0800
+
+    fixed proj2 directory name
+
+[33mcommit 9417535d6d4f74f0f908255296bf985a3fcba16e[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Wed Feb 15 22:30:20 2017 -0800
+
+    skeleton for hw1
+
+[33mcommit 9a30d414129dff86fa291dd358205ab5291bac77[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Wed Feb 15 21:05:33 2017 -0800
+
+    added project 2 skeleton beta version
+
+[33mcommit 4a31bd7537f68284a01cf3019692e63e89edccfb[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Wed Feb 15 09:19:51 2017 -0800
+
+    Added lab 5 starter file
+
+[33mcommit 28d2613fc341c86308ee47cb0702dae1ce0d65a5[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Feb 9 08:19:45 2017 -0800
+
+    Added Lab4 skeleton files
+
+[33mcommit 65a97af9e8cd9e0fa83916f17a3513a110b0236e[m
+Author: aegamesi <admin.aegamesi@gmail.com>
+Date:   Sun Feb 5 21:26:09 2017 -0800
+
+    Fix ArrayIndexOutOfBoundsException in StudentArrayDeque [proj1b]
+
+[33mcommit afa0b9af581d5c3c084b21666b5a33496618ac47[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Sat Feb 4 09:21:35 2017 -0800
+
+    project 1b skeleton files
+
+[33mcommit 7260f337164cbae31aeea0091a2f0a1a5b5224a6[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Sat Feb 4 08:50:06 2017 -0800
+
+    don't let students upload words
+
+[33mcommit 87d29d36c2f049ce4aa381a7f51073796e7de116[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Jan 31 15:02:55 2017 -0800
+
+    added lab3 skeleton files
+
+[33mcommit db5b5f86bb3e7d5d5857859317fe251c879eb43b[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Thu Jan 26 22:11:12 2017 -0800
+
+    Added project 1a skeleton files
+
+[33mcommit 832f987454d4923108634bb049242428b2a8fc6b[m
+Merge: fadc902 ef31bf2
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Thu Jan 26 21:34:16 2017 -0800
+
+    Merge branch 'master' of github.com:Berkeley-CS61B/skeleton-sp17
+
+[33mcommit ef31bf2cd75281bb57de6a23dfecb585639bc61d[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Jan 24 23:21:24 2017 -0800
+
+    lab2 skeleton files
+
+[33mcommit 770580f7fb9e4675ee082c43077e9429342914be[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Tue Jan 24 23:03:51 2017 -0800
+
+    lab2setup
+
+[33mcommit d4746e599edc0ce366fdb12223c272de2de07626[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Fri Jan 20 19:59:05 2017 -0800
+
+    project 0 commit
+
+[33mcommit fadc902da465429e7ee99e0b1a00e79062a289c3[m
+Merge: e8b14d8 73c0001
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Fri Jan 20 20:03:43 2017 -0800
+
+    Merge branch 'master' of github.com:Berkeley-CS61B/skeleton-sp17
+
+[33mcommit e8b14d81344784f5a873b06bec20b94b0bdc9eb1[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Fri Jan 20 20:00:37 2017 -0800
+
+    updated starter files
+
+[33mcommit 73c000179e2b7a73e23f1b9a2ca72d8f9eef581f[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Fri Jan 20 20:00:37 2017 -0800
+
+    updated starter files
+
+[33mcommit 7e0effe8c0c49156cca5ec755ead0ebf5ecaa052[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Fri Jan 20 19:59:05 2017 -0800
+
+    project 0 commit
+
+[33mcommit c2453ae893db4295d64acf1634b1a2d7288f2aeb[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Fri Jan 20 19:59:05 2017 -0800
+
+    project 0 commit
+
+[33mcommit a095f6273628f6fe400441cae64e80a38e086f67[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Fri Jan 20 19:56:48 2017 -0800
+
+    project 0 starter files
+
+[33mcommit 30d7dbd9bbed8911679c806061634e68942ee01d[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Jan 19 12:30:32 2017 -0800
+
+    added back missing leapyear file
+
+[33mcommit 1608e2aa0654997951cc5cd8a8da5fde34da489e[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Jan 19 12:28:42 2017 -0800
+
+    Added gitignore to avoid reuploading of spec
+
+[33mcommit 8319c81d479615d86a3222e734c3f3e95bbd4df7[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Jan 19 12:13:39 2017 -0800
+
+    added note about how to get github account
+
+[33mcommit d0628673dfe5ac1525afcea2e76305c45c43d6d7[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Jan 19 12:07:23 2017 -0800
+
+    added note about exiting vim
+
+[33mcommit f1b4dbf8175dff5afe23a06550e7edbb00e0cec6[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Tue Jan 17 22:52:55 2017 -0800
+
+    added gitignore file to keep you from putting large unnecessary files on github
+
+[33mcommit b135f3ad630692b98226dbf1e0a83e94cbff7127[m
+Author: Josh Hug <hug@cs.berkeley.edu>
+Date:   Tue Jan 17 22:50:13 2017 -0800
+
+    fixed wrong filename
+
+[33mcommit 44f255fbbef9fb78b1fc6924e66ece26b6006e53[m
+Author: Josh hug <hug@cs.berkeley.edu>
+Date:   Thu Jul 28 14:01:26 2016 -0700
+
+    sp17 lab1 skeleton files
